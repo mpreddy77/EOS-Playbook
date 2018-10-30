@@ -12,6 +12,8 @@ build/*
 .PassJungle
 .PassIDEX
 .PassMBAEX
+.PassByzantine
+.PassKylin
 .OwnerKeysIDEX
 .ActiveKeysIDEX
 .ActiveKeysMBAEX
