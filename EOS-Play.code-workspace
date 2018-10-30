@@ -1,0 +1,80 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "eosbinary"
+		},
+		{
+			"path": "/Users/manjunanth.reddy/f42/projects"
+		},
+		{
+			"path": "/Users/manjunath.reddy/f42/projects"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"future": "cpp",
+			"regex": "cpp",
+			"system_error": "cpp",
+			"locale": "cpp",
+			"__locale": "cpp",
+			"__bit_reference": "cpp",
+			"__functional_base": "cpp",
+			"algorithm": "cpp",
+			"atomic": "cpp",
+			"bitset": "cpp",
+			"chrono": "cpp",
+			"deque": "cpp",
+			"__memory": "cpp",
+			"functional": "cpp",
+			"iterator": "cpp",
+			"limits": "cpp",
+			"memory": "cpp",
+			"random": "cpp",
+			"ratio": "cpp",
+			"scoped_allocator": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"vector": "cpp",
+			"filesystem": "cpp",
+			"__hash_table": "cpp",
+			"__split_buffer": "cpp",
+			"__tree": "cpp",
+			"array": "cpp",
+			"dynarray": "cpp",
+			"string_view": "cpp",
+			"hash_map": "cpp",
+			"hash_set": "cpp",
+			"forward_list": "cpp",
+			"initializer_list": "cpp",
+			"list": "cpp",
+			"map": "cpp",
+			"set": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"optional": "cpp",
+			"queue": "cpp",
+			"stack": "cpp",
+			"variant": "cpp",
+			"typeindex": "cpp",
+			"typeinfo": "cpp",
+			"iosfwd": "cpp",
+			"*.ipp": "cpp",
+			"valarray": "cpp",
+			"__refstring": "cpp",
+			"*.inc": "cpp",
+			"utility": "cpp",
+			"__config": "cpp",
+			"__nullptr": "cpp",
+			"exception": "cpp",
+			"new": "cpp",
+			"stdexcept": "cpp",
+			"cfenv": "cpp"
+		},
+		"git.ignoreLimitWarning": true,
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
